@@ -1,0 +1,9 @@
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GeometricPoints\bin\Debug\netcoreapp3.1\GeometricPoints.deps.json
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GeometricPoints\bin\Debug\netcoreapp3.1\GeometricPoints.dll
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GeometricPoints\bin\Debug\netcoreapp3.1\GeometricPoints.pdb
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GeometricPoints\obj\Debug\netcoreapp3.1\GeometricPoints.csprojAssemblyReference.cache
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GeometricPoints\obj\Debug\netcoreapp3.1\GeometricPoints.csproj.CoreCompileInputs.cache
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GeometricPoints\obj\Debug\netcoreapp3.1\GeometricPoints.AssemblyInfoInputs.cache
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GeometricPoints\obj\Debug\netcoreapp3.1\GeometricPoints.AssemblyInfo.cs
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GeometricPoints\obj\Debug\netcoreapp3.1\GeometricPoints.dll
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GeometricPoints\obj\Debug\netcoreapp3.1\GeometricPoints.pdb

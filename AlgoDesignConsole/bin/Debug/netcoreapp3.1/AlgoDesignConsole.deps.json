@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AlgoDesignConsole/1.0.0": {
+        "dependencies": {
+          "GeometricCirlces": "1.0.0",
+          "GeometricPoints": "1.0.0"
+        },
+        "runtime": {
+          "AlgoDesignConsole.dll": {}
+        }
+      },
+      "GeometricCirlces/1.0.0": {
+        "dependencies": {
+          "GeometricPoints": "1.0.0"
+        },
+        "runtime": {
+          "GeometricCirlces.dll": {}
+        }
+      },
+      "GeometricPoints/1.0.0": {
+        "runtime": {
+          "GeometricPoints.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlgoDesignConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GeometricCirlces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GeometricPoints/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

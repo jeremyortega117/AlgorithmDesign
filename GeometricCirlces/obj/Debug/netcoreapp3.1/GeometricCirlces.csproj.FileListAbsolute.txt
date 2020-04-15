@@ -1,0 +1,12 @@
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GeometricCirlces\bin\Debug\netcoreapp3.1\GeometricCirlces.deps.json
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GeometricCirlces\bin\Debug\netcoreapp3.1\GeometricCirlces.dll
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GeometricCirlces\bin\Debug\netcoreapp3.1\GeometricCirlces.pdb
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GeometricCirlces\bin\Debug\netcoreapp3.1\GeometricPoints.dll
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GeometricCirlces\bin\Debug\netcoreapp3.1\GeometricPoints.pdb
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GeometricCirlces\obj\Debug\netcoreapp3.1\GeometricCirlces.csprojAssemblyReference.cache
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GeometricCirlces\obj\Debug\netcoreapp3.1\GeometricCirlces.csproj.CoreCompileInputs.cache
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GeometricCirlces\obj\Debug\netcoreapp3.1\GeometricCirlces.AssemblyInfoInputs.cache
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GeometricCirlces\obj\Debug\netcoreapp3.1\GeometricCirlces.AssemblyInfo.cs
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GeometricCirlces\obj\Debug\netcoreapp3.1\GeometricCirlces.csproj.CopyComplete
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GeometricCirlces\obj\Debug\netcoreapp3.1\GeometricCirlces.dll
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GeometricCirlces\obj\Debug\netcoreapp3.1\GeometricCirlces.pdb
