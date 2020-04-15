@@ -6,8 +6,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\DataStructures\DataStructures.csproj" />
     <ProjectReference Include="..\GeometricCirlces\GeometricCirlces.csproj" />
     <ProjectReference Include="..\GeometricPoints\GeometricPoints.csproj" />
+    <ProjectReference Include="..\JarvisMarchAlgorithm\JarvisMarchAlgorithm.csproj" />
+    <ProjectReference Include="..\SortingAlgorithm\SortingAlgorithm.csproj" />
   </ItemGroup>
 
 </Project>

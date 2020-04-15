@@ -3,6 +3,11 @@ using GeometricCirlces.SeedData;
 using GeometricCirlces.CircleAlgorithms;
 using GeometricPoints;
 using GeometricCirlces.Models;
+using JarvisMarchAlgorithm;
+using JarvisMarchAlgorithm.SeedData;
+using SortingAlgorithm;
+using DataStructures;
+using GameObjects;
 
 namespace AlgoDesignConsole
 {
@@ -45,6 +50,36 @@ namespace AlgoDesignConsole
         public static void ConvexHullTest()
         {
             Console.WriteLine("Creating Convex Hull");
+
+            JarvisMarch JMA = new JarvisMarch(5);
+
+            MergeSort SA = new MergeSort();
+
+            PointVal[] pv = SA.sort(FivePointSeed.getSeedDataJarvis(), 0, 4);
+
+            NPCObject[] NPCO = new NPCObject[5];
+
+            NPCO[0].PV.x = pv[0].x;
+            NPCO[0].PV.y = pv[0].y;
+            DblLinkedList DLLHead = new DblLinkedList(NPCO[0]);
+
+            NPCO[1].PV.x = pv[1].x;
+            NPCO[1].PV.y = pv[1].y;
+            DblLinkedList DLL = new DblLinkedList(NPCO[1]);
+            DLLHead.next = DLL;
+            DLL.prev = DLLHead;
+
+            for (int i = 2; i < 5; i++)
+            {
+                NPCO[i].PV.x = pv[i].x;
+                NPCO[i].PV.y = pv[i].y;
+                DblLinkedList DL = new DblLinkedList(NPCO[i]);
+                DLL.next = DL;
+                DL.prev = DLL;
+                DLL = DL;
+            }
+
+
         }
     }
 }

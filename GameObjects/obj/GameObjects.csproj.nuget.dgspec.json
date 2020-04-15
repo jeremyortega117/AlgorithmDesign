@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JPOje\\source\\repos\\AlgoDesignConsole\\GameObjects\\GameObjects.csproj": {}
+    "C:\\Users\\JPOje\\OneDrive\\Documents\\STAGING\\AlgorithmDesign\\GameObjects\\GameObjects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JPOje\\source\\repos\\AlgoDesignConsole\\GameObjects\\GameObjects.csproj": {
+    "C:\\Users\\JPOje\\OneDrive\\Documents\\STAGING\\AlgorithmDesign\\GameObjects\\GameObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JPOje\\source\\repos\\AlgoDesignConsole\\GameObjects\\GameObjects.csproj",
+        "projectUniqueName": "C:\\Users\\JPOje\\OneDrive\\Documents\\STAGING\\AlgorithmDesign\\GameObjects\\GameObjects.csproj",
         "projectName": "GameObjects",
-        "projectPath": "C:\\Users\\JPOje\\source\\repos\\AlgoDesignConsole\\GameObjects\\GameObjects.csproj",
+        "projectPath": "C:\\Users\\JPOje\\OneDrive\\Documents\\STAGING\\AlgorithmDesign\\GameObjects\\GameObjects.csproj",
         "packagesPath": "C:\\Users\\JPOje\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JPOje\\source\\repos\\AlgoDesignConsole\\GameObjects\\obj\\",
+        "outputPath": "C:\\Users\\JPOje\\OneDrive\\Documents\\STAGING\\AlgorithmDesign\\GameObjects\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\JPOje\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -30,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\JPOje\\source\\repos\\AlgoDesignConsole\\GeometricPoints\\GeometricPoints.csproj": {
-                "projectPath": "C:\\Users\\JPOje\\source\\repos\\AlgoDesignConsole\\GeometricPoints\\GeometricPoints.csproj"
+              "C:\\Users\\JPOje\\OneDrive\\Documents\\STAGING\\AlgorithmDesign\\GeometricPoints\\GeometricPoints.csproj": {
+                "projectPath": "C:\\Users\\JPOje\\OneDrive\\Documents\\STAGING\\AlgorithmDesign\\GeometricPoints\\GeometricPoints.csproj"
               }
             }
           }
@@ -59,22 +56,19 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\JPOje\\source\\repos\\AlgoDesignConsole\\GeometricPoints\\GeometricPoints.csproj": {
+    "C:\\Users\\JPOje\\OneDrive\\Documents\\STAGING\\AlgorithmDesign\\GeometricPoints\\GeometricPoints.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JPOje\\source\\repos\\AlgoDesignConsole\\GeometricPoints\\GeometricPoints.csproj",
+        "projectUniqueName": "C:\\Users\\JPOje\\OneDrive\\Documents\\STAGING\\AlgorithmDesign\\GeometricPoints\\GeometricPoints.csproj",
         "projectName": "GeometricPoints",
-        "projectPath": "C:\\Users\\JPOje\\source\\repos\\AlgoDesignConsole\\GeometricPoints\\GeometricPoints.csproj",
+        "projectPath": "C:\\Users\\JPOje\\OneDrive\\Documents\\STAGING\\AlgorithmDesign\\GeometricPoints\\GeometricPoints.csproj",
         "packagesPath": "C:\\Users\\JPOje\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JPOje\\source\\repos\\AlgoDesignConsole\\GeometricPoints\\obj\\",
+        "outputPath": "C:\\Users\\JPOje\\OneDrive\\Documents\\STAGING\\AlgorithmDesign\\GeometricPoints\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\JPOje\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -114,7 +108,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

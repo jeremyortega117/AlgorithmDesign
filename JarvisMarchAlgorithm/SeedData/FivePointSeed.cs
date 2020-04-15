@@ -5,7 +5,7 @@ using System.Text;
 
 namespace JarvisMarchAlgorithm.SeedData
 {
-    class FivePointSeed
+    public static class FivePointSeed
     {
         public static PointVal[] getSeedDataJarvis()
         {

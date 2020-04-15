@@ -83,7 +83,7 @@ namespace SortingAlgorithm
 
         // Main function that sorts arr[l..r] using
         // merge()
-        public void sort(PointVal[] arr, int l, int r)
+        public PointVal[] sort(PointVal[] arr, int l, int r)
         {
             if (l < r)
             {
@@ -97,7 +97,7 @@ namespace SortingAlgorithm
                 // Merge the sorted halves
                 merge(arr, l, m, r);
             }
-            _pv = arr;
+            return arr;
         }
     }
 }
