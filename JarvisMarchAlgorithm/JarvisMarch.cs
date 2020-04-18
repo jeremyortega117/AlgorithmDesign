@@ -27,8 +27,12 @@ namespace JarvisMarchAlgorithm
 			return topEnd;
 		}
 
+		public DblLinkedList getConvexHull(NPCObject[] NPCO) { 
+			algoTop(NPCO);
+			return head;
+		}
 
-		public void algoTop(NPCObject[] NPC)
+		private void algoTop(NPCObject[] NPC)
 		{
 			// check if we need to perform a convex hull algorithm.
 			if (lessThanTwoCheck(NPC))
@@ -120,7 +124,7 @@ namespace JarvisMarchAlgorithm
 		public void algoBottom(NPCObject[] NPC)
 		{
 
-			DblLinkedList DLL_1 = new DblLinkedList(NPC[size - 1]);
+			DblLinkedList DLL_1 = new DblLinkedList(NPC[size - 2]);
 			DLL_1.prev = topEnd;
 			topEnd.next = DLL_1;
 

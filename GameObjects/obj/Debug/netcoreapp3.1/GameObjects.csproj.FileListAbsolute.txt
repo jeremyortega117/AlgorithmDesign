@@ -1,0 +1,12 @@
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GameObjects\bin\Debug\netcoreapp3.1\GameObjects.deps.json
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GameObjects\bin\Debug\netcoreapp3.1\GameObjects.dll
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GameObjects\bin\Debug\netcoreapp3.1\GameObjects.pdb
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GameObjects\bin\Debug\netcoreapp3.1\GeometricPoints.dll
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GameObjects\bin\Debug\netcoreapp3.1\GeometricPoints.pdb
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GameObjects\obj\Debug\netcoreapp3.1\GameObjects.csprojAssemblyReference.cache
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GameObjects\obj\Debug\netcoreapp3.1\GameObjects.csproj.CoreCompileInputs.cache
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GameObjects\obj\Debug\netcoreapp3.1\GameObjects.AssemblyInfoInputs.cache
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GameObjects\obj\Debug\netcoreapp3.1\GameObjects.AssemblyInfo.cs
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GameObjects\obj\Debug\netcoreapp3.1\GameObjects.csproj.CopyComplete
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GameObjects\obj\Debug\netcoreapp3.1\GameObjects.dll
+C:\Users\JPOje\source\repos\AlgoDesignConsole\GameObjects\obj\Debug\netcoreapp3.1\GameObjects.pdb

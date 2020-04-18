@@ -1,4 +1,5 @@
-﻿using GeometricPoints;
+﻿using GameObjects;
+using GeometricPoints;
 using System;
 
 
@@ -12,20 +13,20 @@ namespace SortingAlgorithm
     public class MergeSort
     {
         int size = 20;
-        public PointVal[] _pv { get; set; }
+        public NPCObject[] _pv { get; set; }
 
         // Merges two subarrays of arr[].
         // First subarray is arr[l..m]
         // Second subarray is arr[m+1..r]
-        public void merge(PointVal[] arr, int l, int m, int r)
+        public void merge(NPCObject[] arr, int l, int m, int r)
         {
             // Find sizes of two subarrays to be merged
             int n1 = m - l + 1;
             int n2 = r - m;
 
             /* Create temp arrays - Will need to match the objects comparing */
-            PointVal[] L = new PointVal[n1];
-            PointVal[] R = new PointVal[n2];
+            NPCObject[] L = new NPCObject[n1];
+            NPCObject[] R = new NPCObject[n2];
 
             /*Copy data to temp arrays*/
             int i;
@@ -51,7 +52,7 @@ namespace SortingAlgorithm
             {
                 // The only code that actually compares itself
                 // Can change this one line to meet the needs of the comparators.
-                if (L[i].x <= R[j].x)
+                if (L[i].PV.x <= R[j].PV.x)
                 {
                     arr[k] = L[i];
                     i++;
@@ -83,7 +84,7 @@ namespace SortingAlgorithm
 
         // Main function that sorts arr[l..r] using
         // merge()
-        public PointVal[] sort(PointVal[] arr, int l, int r)
+        public NPCObject[] sort(NPCObject[] arr, int l, int r)
         {
             if (l < r)
             {

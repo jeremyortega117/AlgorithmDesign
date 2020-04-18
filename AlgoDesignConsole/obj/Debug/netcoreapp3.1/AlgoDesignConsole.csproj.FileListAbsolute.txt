@@ -16,3 +16,11 @@ C:\Users\JPOje\source\repos\AlgoDesignConsole\AlgoDesignConsole\bin\Debug\netcor
 C:\Users\JPOje\source\repos\AlgoDesignConsole\AlgoDesignConsole\bin\Debug\netcoreapp3.1\GeometricCirlces.pdb
 C:\Users\JPOje\source\repos\AlgoDesignConsole\AlgoDesignConsole\bin\Debug\netcoreapp3.1\GeometricPoints.pdb
 C:\Users\JPOje\source\repos\AlgoDesignConsole\AlgoDesignConsole\obj\Debug\netcoreapp3.1\AlgoDesignConsole.csproj.CopyComplete
+C:\Users\JPOje\source\repos\AlgoDesignConsole\AlgoDesignConsole\bin\Debug\netcoreapp3.1\DataStructures.dll
+C:\Users\JPOje\source\repos\AlgoDesignConsole\AlgoDesignConsole\bin\Debug\netcoreapp3.1\GameObjects.dll
+C:\Users\JPOje\source\repos\AlgoDesignConsole\AlgoDesignConsole\bin\Debug\netcoreapp3.1\JarvisMarchAlgorithm.dll
+C:\Users\JPOje\source\repos\AlgoDesignConsole\AlgoDesignConsole\bin\Debug\netcoreapp3.1\SortingAlgorithm.dll
+C:\Users\JPOje\source\repos\AlgoDesignConsole\AlgoDesignConsole\bin\Debug\netcoreapp3.1\DataStructures.pdb
+C:\Users\JPOje\source\repos\AlgoDesignConsole\AlgoDesignConsole\bin\Debug\netcoreapp3.1\JarvisMarchAlgorithm.pdb
+C:\Users\JPOje\source\repos\AlgoDesignConsole\AlgoDesignConsole\bin\Debug\netcoreapp3.1\SortingAlgorithm.pdb
+C:\Users\JPOje\source\repos\AlgoDesignConsole\AlgoDesignConsole\bin\Debug\netcoreapp3.1\GameObjects.pdb

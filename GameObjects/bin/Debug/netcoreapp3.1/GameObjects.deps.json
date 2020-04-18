@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GameObjects/1.0.0": {
+        "dependencies": {
+          "GeometricPoints": "1.0.0"
+        },
+        "runtime": {
+          "GameObjects.dll": {}
+        }
+      },
+      "GeometricPoints/1.0.0": {
+        "runtime": {
+          "GeometricPoints.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GeometricPoints/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

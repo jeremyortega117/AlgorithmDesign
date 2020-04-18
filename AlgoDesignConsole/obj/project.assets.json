@@ -69,6 +69,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "GameObjects": "1.0.0",
           "GeometricPoints": "1.0.0"
         },
         "compile": {
@@ -122,17 +123,21 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JPOje\\.nuget\\packages\\": {}
+    "C:\\Users\\JPOje\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JPOje\\OneDrive\\Documents\\STAGING\\AlgorithmDesign\\AlgoDesignConsole\\AlgoDesignConsole.csproj",
+      "projectUniqueName": "C:\\Users\\JPOje\\source\\repos\\AlgoDesignConsole\\AlgoDesignConsole\\AlgoDesignConsole.csproj",
       "projectName": "AlgoDesignConsole",
-      "projectPath": "C:\\Users\\JPOje\\OneDrive\\Documents\\STAGING\\AlgorithmDesign\\AlgoDesignConsole\\AlgoDesignConsole.csproj",
+      "projectPath": "C:\\Users\\JPOje\\source\\repos\\AlgoDesignConsole\\AlgoDesignConsole\\AlgoDesignConsole.csproj",
       "packagesPath": "C:\\Users\\JPOje\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JPOje\\OneDrive\\Documents\\STAGING\\AlgorithmDesign\\AlgoDesignConsole\\obj\\",
+      "outputPath": "C:\\Users\\JPOje\\source\\repos\\AlgoDesignConsole\\AlgoDesignConsole\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\JPOje\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -147,20 +152,20 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\JPOje\\OneDrive\\Documents\\STAGING\\AlgorithmDesign\\DataStructures\\DataStructures.csproj": {
-              "projectPath": "C:\\Users\\JPOje\\OneDrive\\Documents\\STAGING\\AlgorithmDesign\\DataStructures\\DataStructures.csproj"
+            "C:\\Users\\JPOje\\source\\repos\\AlgoDesignConsole\\DataStructures\\DataStructures.csproj": {
+              "projectPath": "C:\\Users\\JPOje\\source\\repos\\AlgoDesignConsole\\DataStructures\\DataStructures.csproj"
             },
-            "C:\\Users\\JPOje\\OneDrive\\Documents\\STAGING\\AlgorithmDesign\\GeometricCirlces\\GeometricCirlces.csproj": {
-              "projectPath": "C:\\Users\\JPOje\\OneDrive\\Documents\\STAGING\\AlgorithmDesign\\GeometricCirlces\\GeometricCirlces.csproj"
+            "C:\\Users\\JPOje\\source\\repos\\AlgoDesignConsole\\GeometricCirlces\\GeometricCirlces.csproj": {
+              "projectPath": "C:\\Users\\JPOje\\source\\repos\\AlgoDesignConsole\\GeometricCirlces\\GeometricCirlces.csproj"
             },
-            "C:\\Users\\JPOje\\OneDrive\\Documents\\STAGING\\AlgorithmDesign\\GeometricPoints\\GeometricPoints.csproj": {
-              "projectPath": "C:\\Users\\JPOje\\OneDrive\\Documents\\STAGING\\AlgorithmDesign\\GeometricPoints\\GeometricPoints.csproj"
+            "C:\\Users\\JPOje\\source\\repos\\AlgoDesignConsole\\GeometricPoints\\GeometricPoints.csproj": {
+              "projectPath": "C:\\Users\\JPOje\\source\\repos\\AlgoDesignConsole\\GeometricPoints\\GeometricPoints.csproj"
             },
-            "C:\\Users\\JPOje\\OneDrive\\Documents\\STAGING\\AlgorithmDesign\\JarvisMarchAlgorithm\\JarvisMarchAlgorithm.csproj": {
-              "projectPath": "C:\\Users\\JPOje\\OneDrive\\Documents\\STAGING\\AlgorithmDesign\\JarvisMarchAlgorithm\\JarvisMarchAlgorithm.csproj"
+            "C:\\Users\\JPOje\\source\\repos\\AlgoDesignConsole\\JarvisMarchAlgorithm\\JarvisMarchAlgorithm.csproj": {
+              "projectPath": "C:\\Users\\JPOje\\source\\repos\\AlgoDesignConsole\\JarvisMarchAlgorithm\\JarvisMarchAlgorithm.csproj"
             },
-            "C:\\Users\\JPOje\\OneDrive\\Documents\\STAGING\\AlgorithmDesign\\SortingAlgorithm\\SortingAlgorithm.csproj": {
-              "projectPath": "C:\\Users\\JPOje\\OneDrive\\Documents\\STAGING\\AlgorithmDesign\\SortingAlgorithm\\SortingAlgorithm.csproj"
+            "C:\\Users\\JPOje\\source\\repos\\AlgoDesignConsole\\SortingAlgorithm\\SortingAlgorithm.csproj": {
+              "projectPath": "C:\\Users\\JPOje\\source\\repos\\AlgoDesignConsole\\SortingAlgorithm\\SortingAlgorithm.csproj"
             }
           }
         }
@@ -188,7 +193,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

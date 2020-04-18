@@ -1,0 +1,14 @@
+C:\Users\JPOje\source\repos\AlgoDesignConsole\SortingAlgorithm\bin\Debug\netcoreapp3.1\SortingAlgorithm.deps.json
+C:\Users\JPOje\source\repos\AlgoDesignConsole\SortingAlgorithm\bin\Debug\netcoreapp3.1\SortingAlgorithm.dll
+C:\Users\JPOje\source\repos\AlgoDesignConsole\SortingAlgorithm\bin\Debug\netcoreapp3.1\SortingAlgorithm.pdb
+C:\Users\JPOje\source\repos\AlgoDesignConsole\SortingAlgorithm\bin\Debug\netcoreapp3.1\GameObjects.dll
+C:\Users\JPOje\source\repos\AlgoDesignConsole\SortingAlgorithm\bin\Debug\netcoreapp3.1\GeometricPoints.dll
+C:\Users\JPOje\source\repos\AlgoDesignConsole\SortingAlgorithm\bin\Debug\netcoreapp3.1\GameObjects.pdb
+C:\Users\JPOje\source\repos\AlgoDesignConsole\SortingAlgorithm\bin\Debug\netcoreapp3.1\GeometricPoints.pdb
+C:\Users\JPOje\source\repos\AlgoDesignConsole\SortingAlgorithm\obj\Debug\netcoreapp3.1\SortingAlgorithm.csprojAssemblyReference.cache
+C:\Users\JPOje\source\repos\AlgoDesignConsole\SortingAlgorithm\obj\Debug\netcoreapp3.1\SortingAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\JPOje\source\repos\AlgoDesignConsole\SortingAlgorithm\obj\Debug\netcoreapp3.1\SortingAlgorithm.AssemblyInfoInputs.cache
+C:\Users\JPOje\source\repos\AlgoDesignConsole\SortingAlgorithm\obj\Debug\netcoreapp3.1\SortingAlgorithm.AssemblyInfo.cs
+C:\Users\JPOje\source\repos\AlgoDesignConsole\SortingAlgorithm\obj\Debug\netcoreapp3.1\SortingAlgorithm.csproj.CopyComplete
+C:\Users\JPOje\source\repos\AlgoDesignConsole\SortingAlgorithm\obj\Debug\netcoreapp3.1\SortingAlgorithm.dll
+C:\Users\JPOje\source\repos\AlgoDesignConsole\SortingAlgorithm\obj\Debug\netcoreapp3.1\SortingAlgorithm.pdb

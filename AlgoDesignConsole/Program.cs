@@ -55,29 +55,36 @@ namespace AlgoDesignConsole
 
             MergeSort SA = new MergeSort();
 
-            PointVal[] pv = SA.sort(FivePointSeed.getSeedDataJarvis(), 0, 4);
+            NPCObject[] NPCO = SA.sort(FivePointSeed.getGameObjectSeedDataJarvis() , 0, 4);
 
-            NPCObject[] NPCO = new NPCObject[5];
+            DblLinkedList DLL = JMA.getConvexHull(NPCO);
 
-            NPCO[0].PV.x = pv[0].x;
-            NPCO[0].PV.y = pv[0].y;
-            DblLinkedList DLLHead = new DblLinkedList(NPCO[0]);
-
-            NPCO[1].PV.x = pv[1].x;
-            NPCO[1].PV.y = pv[1].y;
-            DblLinkedList DLL = new DblLinkedList(NPCO[1]);
-            DLLHead.next = DLL;
-            DLL.prev = DLLHead;
-
-            for (int i = 2; i < 5; i++)
+            while (DLL != null)
             {
-                NPCO[i].PV.x = pv[i].x;
-                NPCO[i].PV.y = pv[i].y;
-                DblLinkedList DL = new DblLinkedList(NPCO[i]);
-                DLL.next = DL;
-                DL.prev = DLL;
-                DLL = DL;
+                Console.Write(DLL.NPC.PV.x);
+                Console.WriteLine(" "+ DLL.NPC.PV.y);
+                DLL = DLL.next;
             }
+
+            //NPCO[0].PV.x = pv[0].x;
+            //NPCO[0].PV.y = pv[0].y;
+            //DblLinkedList DLLHead = new DblLinkedList(NPCO[0]);
+
+            //NPCO[1].PV.x = pv[1].x;
+            //NPCO[1].PV.y = pv[1].y;
+            //DblLinkedList DLL = new DblLinkedList(NPCO[1]);
+            //DLLHead.next = DLL;
+            //DLL.prev = DLLHead;
+
+            //for (int i = 2; i < 5; i++)
+            //{
+            //    NPCO[i].PV.x = pv[i].x;
+            //    NPCO[i].PV.y = pv[i].y;
+            //    DblLinkedList DL = new DblLinkedList(NPCO[i]);
+            //    DLL.next = DL;
+            //    DL.prev = DLL;
+            //    DLL = DL;
+            //}
 
 
         }

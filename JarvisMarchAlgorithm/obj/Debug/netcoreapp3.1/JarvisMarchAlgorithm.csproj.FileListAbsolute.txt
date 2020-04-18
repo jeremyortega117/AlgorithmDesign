@@ -1,0 +1,16 @@
+C:\Users\JPOje\source\repos\AlgoDesignConsole\JarvisMarchAlgorithm\bin\Debug\netcoreapp3.1\JarvisMarchAlgorithm.deps.json
+C:\Users\JPOje\source\repos\AlgoDesignConsole\JarvisMarchAlgorithm\bin\Debug\netcoreapp3.1\JarvisMarchAlgorithm.dll
+C:\Users\JPOje\source\repos\AlgoDesignConsole\JarvisMarchAlgorithm\bin\Debug\netcoreapp3.1\JarvisMarchAlgorithm.pdb
+C:\Users\JPOje\source\repos\AlgoDesignConsole\JarvisMarchAlgorithm\bin\Debug\netcoreapp3.1\DataStructures.dll
+C:\Users\JPOje\source\repos\AlgoDesignConsole\JarvisMarchAlgorithm\bin\Debug\netcoreapp3.1\GameObjects.dll
+C:\Users\JPOje\source\repos\AlgoDesignConsole\JarvisMarchAlgorithm\bin\Debug\netcoreapp3.1\GeometricPoints.dll
+C:\Users\JPOje\source\repos\AlgoDesignConsole\JarvisMarchAlgorithm\bin\Debug\netcoreapp3.1\DataStructures.pdb
+C:\Users\JPOje\source\repos\AlgoDesignConsole\JarvisMarchAlgorithm\bin\Debug\netcoreapp3.1\GameObjects.pdb
+C:\Users\JPOje\source\repos\AlgoDesignConsole\JarvisMarchAlgorithm\bin\Debug\netcoreapp3.1\GeometricPoints.pdb
+C:\Users\JPOje\source\repos\AlgoDesignConsole\JarvisMarchAlgorithm\obj\Debug\netcoreapp3.1\JarvisMarchAlgorithm.csprojAssemblyReference.cache
+C:\Users\JPOje\source\repos\AlgoDesignConsole\JarvisMarchAlgorithm\obj\Debug\netcoreapp3.1\JarvisMarchAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\JPOje\source\repos\AlgoDesignConsole\JarvisMarchAlgorithm\obj\Debug\netcoreapp3.1\JarvisMarchAlgorithm.AssemblyInfoInputs.cache
+C:\Users\JPOje\source\repos\AlgoDesignConsole\JarvisMarchAlgorithm\obj\Debug\netcoreapp3.1\JarvisMarchAlgorithm.AssemblyInfo.cs
+C:\Users\JPOje\source\repos\AlgoDesignConsole\JarvisMarchAlgorithm\obj\Debug\netcoreapp3.1\JarvisMarchAlgorithm.csproj.CopyComplete
+C:\Users\JPOje\source\repos\AlgoDesignConsole\JarvisMarchAlgorithm\obj\Debug\netcoreapp3.1\JarvisMarchAlgorithm.dll
+C:\Users\JPOje\source\repos\AlgoDesignConsole\JarvisMarchAlgorithm\obj\Debug\netcoreapp3.1\JarvisMarchAlgorithm.pdb
